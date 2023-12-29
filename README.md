@@ -9,5 +9,3 @@ My name is Enrique Rojas and I'm a Junior Flutter Developer.
 - 📧 For any questions or doubts don't hesitate to contact me! My email is on the left 👈
 
 Have a nice day!
-
-<iframe src="https://giphy.com/embed/211e4CYjahC2Q" width="480" height="363" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/beach-hedgehog-211e4CYjahC2Q">via GIPHY</a></p>
