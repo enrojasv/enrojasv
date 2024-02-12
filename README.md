@@ -10,4 +10,4 @@ My name is Enrique Rojas and I'm a Junior Flutter Developer.
 
 Have a nice day!
 
-![](https://github.com/enrojasv/enrojasv/blob/main/erizo_malote.gif)
+![](https://github.com/enrojasv/enrojasv/blob/main/mono_chulesco.gif)
