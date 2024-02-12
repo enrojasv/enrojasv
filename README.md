@@ -1,5 +1,5 @@
 # Hola mundo! 🌍
-My name is Enrique Rojas and I'm a Junior Flutter Developer.
+My name is Enrique Rojas and I'm a Junior Mobile Developer.
 
 - ❤️ I really like to work with mobile applications, developing UI/UX and software.
 - 🌱 As a Jr. Developer I do mini projects to practice my skills. Some are public so you can see my code.
